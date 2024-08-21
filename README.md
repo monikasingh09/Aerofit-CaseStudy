@@ -1,5 +1,5 @@
 # <h1 align='center'> <font color='Darkblue'><font size=6>🏃‍♂️🏃‍♀️🏃AEROFIT - Business CaseStudy🏃‍♂️🏃‍♀️🏃</font> </font></h1>
-<kbd>![Design 3](![image](https://github.com/user-attachments/assets/a315fd73-c5a9-4a1c-b579-a13d1d0c74fe))</kbd>
+<kbd>(![image](https://github.com/user-attachments/assets/a315fd73-c5a9-4a1c-b579-a13d1d0c74fe))</kbd>
 
 ## 🤔 Aerofit :- 
 
